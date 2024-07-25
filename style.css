@@ -12,5 +12,5 @@ body {
     width: 800px;
     height: 600px;
     border: 1px solid #010708;
-    background-color: #47c2e7;
+    background-color: #47c2e7 !important;
 }
